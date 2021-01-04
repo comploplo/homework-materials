@@ -10,7 +10,7 @@ repository's files and the home folder. The file structure in this repository re
 must be in your home directory for the template, and pandoc, to work.
 
 The texmf directory contains files from [the kaobook template](https://www.latextemplates.com/template/kaobook)
-, which is a variation on the [Tufte handouttemplate](https://rstudio.github.io/tufte/), texmf's 
+, which is a variation on the [Tufte handout template](https://rstudio.github.io/tufte/), texmf's 
 structure may be better understood [here](www.texdoc.net/texmf-dist/doc/generic/tds/tds.pdf). 
 
 Dependencies: stow, some latex packages, pandoc.
