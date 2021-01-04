@@ -25,9 +25,15 @@ with markdown's # based header system, but will number your homework problems au
 used.
 
 date: defaults to \today.
+
 title: defaults to assignment.
+
 assignment: defaults to 'assignment hmm'.
+
 classname: defaults to 'Your Class'.
+
 problemtitle: defaults to 'Exercise', prefix on homeworkProblem enviroment. 
+
 author: defaults to 'Gabe Oppenheimer'.
+
 numbersecitons: defaults to non-numbered sections, toggle numbered sections.
